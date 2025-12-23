@@ -1,4 +1,4 @@
-// Symboles.h
+// Symboles.h - v1.0.0
 // Bibliothèque de symboles avec conversion UTF-8 universelle
 // Version complète avec codes Unicode réels
 // ===========================================================
