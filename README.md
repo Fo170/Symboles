@@ -15,4 +15,4 @@ Bibliothèque Arduino/PlatformIO pour l'affichage de symboles spéciaux avec con
 Ajoutez la dépendance dans votre fichier `platformio.ini` :
 ```ini
 lib_deps = 
-    https://github.com/Fo170/Symboles.git
+    https://github.com/Fo170/Symboles.git@^1.0.0
