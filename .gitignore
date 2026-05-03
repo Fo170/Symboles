@@ -1,0 +1,4 @@
+# Instruction files - never publish to GitHub
+AGENTS.md
+CLAUDE.md
+copilot-instructions.md
