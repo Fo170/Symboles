@@ -1,4 +1,5 @@
 # Symboles Library
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Arduino](https://img.shields.io/badge/Arduino-IDE-00979C?style=flat&logo=arduino)](https://docs.arduino.cc/software/ide/)
 [![Arduino Badge](https://img.shields.io/badge/framework-arduino-brightgreen?logo=arduino.svg)](https://www.arduino.cc/)
@@ -24,3 +25,4 @@ Ajoutez la dépendance dans votre fichier `platformio.ini` :
 ```ini
 lib_deps = 
     https://github.com/Fo170/Symboles.git@^1.0.0
+```
