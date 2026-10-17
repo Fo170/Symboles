@@ -7,6 +7,9 @@
 #ifndef SYMBOLES_H
 #define SYMBOLES_H
 
+
+// Version de la librairie (source UNIQUE — agrégée par liste_lib.h)
+#define __SYMBOLES_H_VERSION__ "1.1.0"
 #include <Arduino.h>
 #include <WString.h>
 
