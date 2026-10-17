@@ -1,6 +1,6 @@
 {
   "name": "Symboles",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Bibliothèque de symboles avec conversion UTF-8 universelle",
   "keywords": ["Bibliothèque", "symboles", "UTF-8"],
   "repository": {"type": "git","url": "https://github.com/Fo170/Symboles.git"},

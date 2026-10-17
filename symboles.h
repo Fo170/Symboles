@@ -9,7 +9,7 @@
 
 
 // Version de la librairie (source UNIQUE — agrégée par liste_lib.h)
-#define __SYMBOLES_H_VERSION__ "1.1.0"
+#define __SYMBOLES_H_VERSION__ "1.1.1"
 #include <Arduino.h>
 #include <WString.h>
 
